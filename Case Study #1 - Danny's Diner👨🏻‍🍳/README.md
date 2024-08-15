@@ -176,11 +176,6 @@ group by sales.customer_id;
     
 ```
 
-Certainly! Here’s a simplified version of the key insights:
-
----
-
-
 ![9](https://github.com/user-attachments/assets/2bf9a31a-2791-4daa-bd95-7be1c8835faf)
 
 
