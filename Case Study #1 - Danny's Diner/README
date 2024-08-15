@@ -1,30 +1,3 @@
-# Case Study #1 - Danny's Diner 
-
-![Screenshot (413)](https://github.com/user-attachments/assets/ed4a778b-d1ce-4cbc-92d3-55539396dea8)
-
-### Introuction
-
-Danny's Diner, a delightful restaurant launched in early 2021 by Danny, offers a menu of sushi, curry, and ramen. While Danny’s culinary skills are top-notch, he needs help with analyzing the basic customer data collected in the initial months to ensure the restaurant's success.
-
-### Problem Statement
-Danny seeks to unlock insights from customer data to understand their habits, spending, and favorite dishes. This will help him enhance the customer experience and evaluate the potential of expanding the loyalty program. Your challenge is to craft SQL queries and datasets that will provide Danny with the information he needs to make data-driven decisions.
-
- Sample datasets include
- 1) Sales
- 2) Menu
- 3) Members
-
-### Entity Relationship Diagram
-
-Three main tables: Sales, Menu, and Members, linked through customer_id and product_id
-
-![Screenshot (412)](https://github.com/user-attachments/assets/b9ae1f93-754a-471b-a124-94d164e617e3)
-
-
-### Case Study Questions 
-#### 1)What is the total amount each customer spent at the restaurant?
-
-
 
 
 
