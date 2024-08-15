@@ -1,12 +1,17 @@
-# 8_Week_Sql_Challenge 🏆
 
-This repository showcases my solutions for the #8WeekSQLChallenge, featuring eight diverse case studies that highlight my SQL expertise. The challenges cover a broad range of topics, including ranking, common table expressions (CTEs), datetime functions, text manipulation, aggregation, and NULL handling.
+## Hello!
+# Welcome to my SQL portfolio. Here, you'll find two projects showcasing my skills in data analysis and SQL query crafting.🏆
 
-Each case study illustrates my problem-solving skills and proficiency in crafting complex SQL queries. The repository reflects my growth and innovation in SQL, demonstrating my ability to tackle real-world data scenarios effectively.
+### Project 1: Danny's Diner Analysis
+Introduction:
+This project involves analyzing customer data for Danny’s Diner to uncover key insights into customer behavior and preferences. By examining datasets related to sales, menu items, and loyalty program members, the goal is to identify visiting patterns, spending habits, and popular menu items. The analysis provides actionable recommendations for enhancing customer experience and expanding the loyalty program.
 
-Created by: Danny Maa
 
+### Project 2: Foodie-Fi Subscription Analysis
+Introduction:
+This project focuses on analyzing subscription data for Foodie-Fi, a streaming service offering exclusive food-related content. Using data on subscriptions and user engagement, the project explores trends in subscription growth, user activity, and preference for subscription plans. The insights gained will guide strategic decisions on feature investments and marketing strategies.
 
+### Tools Used🛠️ : SQL
 
 
 
