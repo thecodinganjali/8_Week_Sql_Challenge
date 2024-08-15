@@ -1,6 +1,6 @@
 
 ## Hello!
-# Welcome to my SQL portfolio. Here, you'll find two projects showcasing my skills in data analysis and SQL query crafting.🏆
+### Welcome to my SQL portfolio. Here, you'll find two projects showcasing my skills in data analysis and SQL query crafting.🏆
 
 ### Project 1: Danny's Diner Analysis
 Introduction:
